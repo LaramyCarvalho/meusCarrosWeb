@@ -7,6 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:meus_carros_sinapse/app/app.dart';
 
 import 'package:meus_carros_sinapse/main.dart';
 
